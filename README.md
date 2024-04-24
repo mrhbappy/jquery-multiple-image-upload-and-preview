@@ -1,4 +1,4 @@
-# Image Upload Preview
+# Multiple Image Upload And Preview
 
 ![GitHub](https://img.shields.io/github/license/mrhbappy/jquery-multiple-image-upload-and-preview)
 
