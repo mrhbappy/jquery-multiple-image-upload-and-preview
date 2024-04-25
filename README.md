@@ -17,6 +17,7 @@ A simple JavaScript functionality to preview images before uploading. It allows 
 3. Include the provided JavaScript code in your project.
 
 ```html
+<link rel="stylesheet" href="css/style.css">
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="script.js"></script>
 
