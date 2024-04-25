@@ -20,8 +20,11 @@ A simple JavaScript functionality to preview images before uploading. It allows 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="script.js"></script>
 
+
+
 Usage
 Call the imageUpload method on the .image-input selector to initialize the functionality.
+$('.image-input').imageUpload();
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
